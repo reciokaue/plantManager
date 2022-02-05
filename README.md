@@ -16,7 +16,7 @@
 
 <br />
 <div align="center">
-<h3 align="center">Go Finances</h3>
+<h3 align="center">Plant Manager</h3>
 
   <p align="center">
     <a href="https://github.com/reciokaue/plantManager"><strong>Explore the docs »</strong></a>
